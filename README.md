@@ -81,4 +81,4 @@ flowchart TD
 
 ## Status
 
-Draft 0.1 — axes 1–4. Later axes (platform target, art-production route, audio route, determinism class as a stamped field, lane as a content label) are designed seams, not yet drafted.
+Draft 0.2 — axes 1–11 (the four shape axes plus scope class, asset-pipeline reuse, content-production load, dual-target cost, determinism/testability class, time-to-playable, and slate synergy), with the selection method; the worked example is docs/SLATE-SCORING.md.

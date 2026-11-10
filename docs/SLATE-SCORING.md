@@ -1,6 +1,6 @@
 # SLATE SCORING — the Phorge narrowing method, worked on the current slate
 
-Companion to DRAFT.md (axes 1–11). Purpose: prove the selection axes do their job — take everything the studio has in the works or planned, score it on the full axis set, and produce a shortlist short enough to act on.
+Companion to docs/PIPELINE.md (axes 1–11). Purpose: prove the selection axes do their job — take everything the studio has in the works or planned, score it on the full axis set, and produce a shortlist short enough to act on.
 
 ## Sources and confidence
 
